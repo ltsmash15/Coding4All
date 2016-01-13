@@ -8,3 +8,5 @@ Once saved, cd Coding4All, git status
 git add --
 
 git commit -m "Whatever changes you have made"
+
+git push
